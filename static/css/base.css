@@ -1,0 +1,7 @@
+body,ol,ul,li,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0}
+li{list-style:none}
+a{color:#000;text-decoration:none}
+a:hover{color:#7A4694;text-decoration:none}
+html,body{height: 100%;width: 100%}
+img{border:0;vertical-align:middle}
+input{border:1px solid #CBCBCB;outline: none;}
